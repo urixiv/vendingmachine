@@ -1,0 +1,3 @@
+water=100
+soda=50
+juice=0
